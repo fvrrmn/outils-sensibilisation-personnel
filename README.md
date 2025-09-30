@@ -49,7 +49,7 @@ Exemples :
 
 
 <div align="center">
-  <img src="img/bruteforce_1.png" alt="Interface de l'outil BruteForce - Vide" />
+  <img src="img/bruteforce_1.png" alt="Interface de l'outil BruteForce - Vide" />  
   <img src="img/bruteforce_2.png" alt="Interface de l'outil BruteForce - Résultat" />
 </div>
 
@@ -67,6 +67,6 @@ Il faut éviter :
 - Combinaison : `Flavien33000`
 
 <div align="center">
-  <img src="img/wordlist-attack_1.png" alt="Interface de l'outil Attaque par Dictionnaire - Vide" />
+  <img src="img/wordlist-attack_1.png" alt="Interface de l'outil Attaque par Dictionnaire - Vide" />  
   <img src="img/wordlist-attack_2.png" alt="Interface de l'outil Attaque par Dictionnaire - Résultat" />
 </div>
