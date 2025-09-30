@@ -13,13 +13,13 @@
 
 ---
 
-**Avertissement - Usage pédagogique uniquement**
-
-Les scripts présents dans ce dépôt sont uniquement éducatifs.  
- 
-L’auteur décline toute responsabilité pour tout usage non autorisé.
-
+🚨  
+**Usage pédagogique uniquement**  
+Les scripts présents dans ce dépôt sont destinés uniquement à des fins éducatives.  
+L’auteur décline toute responsabilité pour tout usage non autorisé.  
 *Voir le fichier LICENSE pour les détails.*
+
+---
 
 </div>
 
@@ -30,8 +30,8 @@ Dans un contexte où les cyberattaques se multiplient, il est crucial que le per
 
 ## Sommaire
 
-1. [Attaque par BruteForce](#1-bruteforce)  
-2. [Attaque par Dictionnaire](#2-attaque_dictionnaire)
+1. [Attaque par BruteForce](#attaque-par-bruteforce)  
+2. [Attaque par Dictionnaire](#attaque-par-dictionnaire)
 
 ## Attaque par BruteForce
 
