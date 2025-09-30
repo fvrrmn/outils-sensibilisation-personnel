@@ -1,5 +1,5 @@
 # outils-sensibilisation-personnel
-*Démonstration d’outils afin de sensibiliser le personnel aux risques et aux potentielles Cyberattaques en entreprise.*
+*Démonstration d’outils afin de sensibiliser le personnel aux risques et aux potentielles Cyberattaques en entreprise*
 
 [![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-white.svg)](./LICENSE)
